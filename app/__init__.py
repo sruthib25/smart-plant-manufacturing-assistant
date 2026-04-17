@@ -1,1 +1,0 @@
-# Smart Manufacturing Assistant Backend Package
